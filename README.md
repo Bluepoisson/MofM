@@ -1,2 +1,0 @@
-# MofM
-Entry level.
